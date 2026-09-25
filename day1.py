@@ -1,1 +1,10 @@
-gg
+print("======================================")
+name='bhuvana'
+college='PSNA'
+branch='IT'
+year=3
+print("Name:",name)
+print("College:",college)
+print("Branch:",branch)
+print("Year:",year)
+print("======================================")
